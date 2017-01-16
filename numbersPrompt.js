@@ -8,9 +8,6 @@ function startPrompt() {
 //
     prompt.start();
 
-//
-// Get two properties from the user: username and email
-//
     var options = [
         {
             name: 'firstNumber',
